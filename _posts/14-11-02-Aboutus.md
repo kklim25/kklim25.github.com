@@ -1,22 +1,5 @@
-
-
-
-#제목입니다.
-
-## 조건문에대해서 알아볼까요?
-
-**if 문**
-
-if문은 좋습니다. 조건을 넣으면 true일때는 진행,
-false일때는 넘어갑니다.
-- - - - 
-- dkd[^뭘까이게]
-
-[^]: 뭡니까 이게```
-????
-
-[TOC]
-
-
-
-```
+Name : 김기림<br/>
+email: soandlove09@naver.com<br/>
+<br/>
+Name : 장용우<br/>
+email: nazola0@koreatech.ac.kr<br/>

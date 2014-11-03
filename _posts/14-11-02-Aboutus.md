@@ -1,10 +1,12 @@
 ---
 layout : page
-title : contact us
+title : Profile
 ---
 
-Name : 김기림<br/>
+name : 김기림<br/>
+major : Computer Engineering<br/>
 email: soandlove09@naver.com<br/>
 <br/>
-Name : 장용우<br/>
+name : 장용우<br/>
+major : Computer Engineering<br/>
 email: nazola0@koreatech.ac.kr<br/>

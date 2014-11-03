@@ -1,5 +1,5 @@
 ---
-layout : header
+layout : post
 title : contact us
 ---
 

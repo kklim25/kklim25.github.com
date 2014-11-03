@@ -1,3 +1,8 @@
+---
+layout : post
+title : contact us
+---
+
 Name : 김기림<br/>
 email: soandlove09@naver.com<br/>
 <br/>

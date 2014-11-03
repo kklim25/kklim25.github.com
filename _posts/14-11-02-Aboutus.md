@@ -1,5 +1,5 @@
 ---
-layout : head
+layout : header
 title : contact us
 ---
 

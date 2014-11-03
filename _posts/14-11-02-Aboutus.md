@@ -1,7 +1,4 @@
----
-layout : post
-title : if
----
+
 
 
 #제목입니다.

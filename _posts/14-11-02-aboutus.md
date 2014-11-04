@@ -7,7 +7,7 @@ name : 김기림<br/>
 major : Computer Engineering<br/>
 email: soandlove09@naver.com<br/>
 <br/>
-![](https://www.dropbox.com/s/g05dh5mo03rlowp/KakaoTalk_20141104_214517046.jpg?dl=0)<br/><br/>
+![](https://www.dropbox.com/s/g05dh5mo03rlowp/KakaoTalk_20141104_214517046.jpg)<br/><br/>
 name : 장용우<br/>
 major : Computer Engineering<br/>
 email: nazola0@koreatech.ac.kr<br/>

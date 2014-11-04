@@ -8,7 +8,7 @@ major : Computer Engineering<br/>
 Contact <a href="mailto:soandlove09@naver.com"></a>
 //email: soandlove09@naver.com<br/>
 <br/>
-![](http://daringfireball.net/graphics/author/addison-bw-425.jpg)<br/><br/>
+![](http://blogfiles.naver.net/20141104_240/nazola1_1415105350511gIe1A_JPEG/KakaoTalk_20141104_214517046.jpg)<br/><br/>
 name : 장용우<br/>
 major : Computer Engineering<br/>
 email: nazola0@koreatech.ac.kr<br/>

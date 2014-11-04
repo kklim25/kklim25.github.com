@@ -5,7 +5,7 @@ title : Profile
 
 name : 김기림<br/>
 major : Computer Engineering<br/>
-Contact <a href="mailto:soandlove09@naver.com">Admin</a>
+Contact <a href="mailto:soandlove09@naver.com"></a>
 //email: soandlove09@naver.com<br/>
 <br/>
 ![](http://daringfireball.net/graphics/author/addison-bw-425.jpg)<br/><br/>

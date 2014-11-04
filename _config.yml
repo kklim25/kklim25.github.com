@@ -1,4 +1,5 @@
 # Site settings
+title: home
 email: nazola0@koraetech.ac.kr
 
 baseurl: "" # the subpath of your site, e.g. /blog/
